@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Ahuja</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
-- 🔭 I’m currently working on **Sowingo**
-
-- 🌱 I’m currently learning **SwiftUI, Python**
+- 🌱 I’m currently mastering **SwiftUI, Python**
 
 - 💬 Ask me about **Swift, SwiftUI and iOS Development**
 
